@@ -1,7 +1,7 @@
 {
   "name": "etrv-scan",
   "version": "0.03",
-  "image": "frenzeldk/eco2-tools-scan",
+  "image": "orkeren/eco2-tools-scan",
   "slug": "etrv_scan",
   "description": "A tool to scan for eco2 thermostats and display mac-addresses",
   "url": "https://github.com/frenzeldk/Eco2-Tools",
