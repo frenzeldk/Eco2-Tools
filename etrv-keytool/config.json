@@ -1,10 +1,10 @@
 {
   "name": "etrv-keytool",
   "version": "0.03",
-  "image": "hbdk/eco2-tools-keytool",
+  "image": "frenzeldk/eco2-tools-keytool",
   "slug": "etrv_keytool",
   "description": "A tool to retrive a key from eco2 thermostats",
-  "url": "https://github.com/HBDK/Eco2-Tools",
+  "url": "https://github.com/frenzeldk/Eco2-Tools",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "once",
   "boot": "manual",

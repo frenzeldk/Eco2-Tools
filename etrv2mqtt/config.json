@@ -1,10 +1,10 @@
 {
   "name": "etrv2mqtt",
   "version": "0.03",
-  "image": "hbdk/eco2-tools",
+  "image": "frenzeldk/eco2-tools",
   "slug": "etrv2mqtt",
   "description": "A bridge to read values from and control danfoss eco2 thermostats",
-  "url": "https://github.com/HBDK/Eco2-Tools",
+  "url": "https://github.com/frenzeldk/Eco2-Tools",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "application",
   "boot": "auto",
